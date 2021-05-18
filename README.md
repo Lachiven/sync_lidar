@@ -1,3 +1,4 @@
+手动调参 旋转平移矩阵标定雷达
 # sync_lidar
 ```
 mkdir catkin_sync_lidar && cd catkin_sync_lidar
